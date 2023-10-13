@@ -1,0 +1,5 @@
+.env
+db-data
+ps-data
+*.tar.gz
+web
